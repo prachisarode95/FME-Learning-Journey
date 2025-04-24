@@ -1,4 +1,4 @@
-🌐 FME Form Basic Course - Day 2: Transforming Data Exercise
+# 🌐 FME Form Basic Course - Day 2: Transforming Data Exercise
 
 ## 📘 About the exercise
 
@@ -74,17 +74,19 @@ The data transformation process followed these steps:
 - 🎥 [Watch Workspace Running in FME Workbench](https://github.com/user-attachments/assets/b592e7fd-39fc-4f47-8ee1-c8b9ca6b057d)  
 - 🎥 [Watch Final Output with Sorted Data in FME Data Inspector](https://github.com/user-attachments/assets/19ac9722-8a62-4abd-b245-282a6cb6369b)
 
-🌐 FME Form Basic Course - Day 2: Join Tables Exercise
+---
+
+# 🌐 FME Form Basic Course - Day 2: Join Tables Exercise
 This project is a part of my learning journey through the FME Form Basic Course provided by Safe Software Academy. In this exercise, I explored the Joiner transformer to combine data from two different tables based on a shared key field.
 
-🔍 Exercise Overview
+## 🔍 Exercise Overview
 Exercise Name: Join Tables
 
 Course: FME Form Basic – Day 2 Series
 
 Objective: To learn how to join data tables using the Joiner transformer in FME Form
 
-Skills Practiced:
+## Skills Practiced:
 
 - Joining spatial and non-spatial datasets
 
@@ -94,16 +96,16 @@ Skills Practiced:
 
 - Using the FME Data Inspector to verify results
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 FME Workbench 2024.2.1
 
-📁 Project Demonstration
+## 📁 Project Demonstration
 📸 Workspace Screenshot/: 
 ![Image](https://github.com/user-attachments/assets/b4851ec1-aa0e-4d87-af84-ac7a614d1a6c)
 
 🎥 Demo/: https://github.com/user-attachments/assets/5d3e7ac2-c07a-4eae-847f-0b566328d8c5
 
-🎯 What I Learned
+## 🎯 What I Learned
 - How to use the Joiner transformer to enrich spatial data with attribute information
 
 - The importance of matching key fields when joining datasets
