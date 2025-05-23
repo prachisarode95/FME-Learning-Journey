@@ -2,7 +2,6 @@
 
 [![FME](https://img.shields.io/badge/FME-Data_Integration-orange?logo=safe-software&logoColor=white)](https://www.safe.com/fme/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/FME-Learning-Journey?style=social)](https://github.com/prachisarode95/FME-Learning-Journey)
 
 This repository showcases my learning journey with **FME (Feature Manipulation Engine)** through structured lessons, exercises, and practical applications. I followed the official training series and documented each step with detailed outputs, custom enhancements, and reflections.
 
