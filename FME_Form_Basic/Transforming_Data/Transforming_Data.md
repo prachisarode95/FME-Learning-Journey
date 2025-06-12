@@ -113,3 +113,12 @@ FME Workbench 2024.2.1
 - How to visually inspect join results using the Data Inspector
 
 ---
+## 📁 File Structure (includes data for both sections)
+```
+Transforming_Data/
+├── data/ # Contains raw datasets for transformation
+├── Demos/ # Example demos for transformation workflows
+├── Workspaces/ # FME workspace files for exercises
+└── Transforming_Data.md # Documentation for the data transformation module
+```
+---
