@@ -62,10 +62,10 @@ I completed a guided exercise series that involved:
 
 ## 📁 Files in This Repo
 
-- `advanced_read_write.fmw`: Final workspace
-- `screenshots/`: Key screenshots of each stage
-- `outputs/`: Sample GML and Excel output files
-- `notes.md`: My summary notes and key takeaways from the exercise
+- `exercise-set-reader-and-writer-parameters-complete.fmw`: Final workspace
+- `Design Workspaces for Advanced Reading and Writing.PNG`: Key screenshot of each stage
+- `CommunityMap.gdb.zip`: Dataset files
+- `Advanced_Reading_Writing.md`: My summary notes and key takeaways from the exercise
 
 ---
 
