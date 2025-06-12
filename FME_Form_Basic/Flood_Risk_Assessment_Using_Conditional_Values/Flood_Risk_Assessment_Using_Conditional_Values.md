@@ -82,3 +82,12 @@ The data transformation process followed these steps:
 - 🎥 [Watch Workspace Execution](https://github.com/user-attachments/assets/333b38e9-28e4-4648-81e3-a97e9da006b4)
   
 ---
+
+## 📁 File Structure
+```
+Flood_Risk_Assessment_Using_Conditional_Values/
+├── exercise-flood-risk-project-complete.fmw # Final FME workspace using conditional logic
+├── Flood_Risk_Assessment_Using_Conditional_Values.md # Project documentation and explanation
+└── flood_risk_project_demo.mp4 # Demo video walkthrough of the flood risk workflow
+```
+---
