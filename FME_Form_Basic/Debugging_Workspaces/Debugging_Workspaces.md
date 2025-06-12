@@ -57,13 +57,19 @@ I completed a series of exercises that involved:
 
 ---
 
-## 📁 Files in This Repo
-
-- `debug_workspaces.fmw`: Final, debugged workspace.
-- `screenshots/`: Visual documentation of debugging steps and tools used.
-- `logs/`: Sample log files illustrating error messages and resolutions.
-- `notes.md`: Personal reflections and summaries of debugging techniques learned.
-
+## 📁 Files Structure
+```
+Debugging_Workspaces/
+├── Addresses.gdb.zip # Zipped Geodatabase containing address layers
+├── Crime.csv # CSV file with crime incident data
+├── Debugging_Workspaces.md # Markdown documentation for workspace debugging
+├── Document_And_Debug_Your Workspace.PNG # Screenshot or infographic for reference
+├── exercise-debugging-a-workspace-complete.fmw # Final FME workspace file
+├── leisure.osm # OpenStreetMap file for leisure features
+├── Parks.zip # Zipped dataset containing park boundaries
+├── PlanningRestrictions.gpkg # GeoPackage for planning restrictions
+└── sequential_project_workflow.png # Workflow diagram for project steps
+```
 ---
 
 > 🧩 This mini-project represents my dedication to mastering FME's debugging capabilities and ensuring robust data transformation processes.
