@@ -10,7 +10,8 @@ This repository showcases my learning journey with **FME (Feature Manipulation E
 ## 📚 Courses Covered
 
 - **FME Form Basic**  
-- **FME Form Advanced**  
+- **FME Form Advanced**
+- **Integrate Spatial Data**  
 - **FME Flow Authoring**
 
 These courses provided the foundation for understanding both desktop data transformation and web-based automation.
