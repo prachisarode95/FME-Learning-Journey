@@ -1,48 +1,68 @@
-# 🗺️ FME-Learning-Journey
+# 🌍 FME Learning Journey – Spatial ETL Projects with FME Form & Flow
 
 [![FME](https://img.shields.io/badge/FME-Data_Integration-orange?logo=safe-software&logoColor=white)](https://www.safe.com/fme/)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-This repository showcases my learning journey with **FME (Feature Manipulation Engine)** through structured lessons, exercises, and practical applications. I followed the official training series and documented each step with detailed outputs, custom enhancements, and reflections.
-
----
-
-## 📚 Courses Covered
-
-- **FME Form Basic**  
-- **FME Form Advanced**
-- **Integrate Spatial Data**  
-- **FME Flow Authoring**
-
-These courses provided the foundation for understanding both desktop data transformation and web-based automation.
+Welcome to my learning repository showcasing hands-on ETL automation projects built while completing official FME training by [Safe Software](https://www.safe.com/). This repository is designed to highlight my growing expertise in **FME Form (formerly Desktop)** and **FME Flow (formerly Server)**, especially for **Spatial Data Automation Roles**.
 
 ---
 
-## 🧰 Key Skills & Tools
+## 📘 Training-Based Project Tracks
 
+Each folder documents exercises and mini-projects built from real Safe Academy training paths, customized to simulate real-world GIS workflows.
+
+| Folder | Description | Status |
+|--------|-------------|--------|
+| [`FME_Form_Basic`](./FME_Form_Basic/) | Mini-projects from FME Form Basic Course (20 hours) | ✅ Completed |
+| `FME_Form_Advanced` | In-progress workflows using advanced parameterization, schema mapping, dynamic fanouts, and writers (~30 hours) | 🚧 In Progress |
+| `FME_Flow_Authoring` | To-be-added: automation and publishing projects using FME Flow (20 hours) | 📅 Planned (Aug 2025) |
+
+---
+
+## ✨ What You'll Find Here
+
+- Practical use of **core and advanced transformers**
+- Workflows designed with **parameters, schema mapping**, and **conditional logic**
+- Error handling, logging, and **debugging best practices**
+- Focus on **spatial and non-spatial** data formats
+
+---
+
+- ## 🧰 Key Skills & Tools
+
+- FME Form (Basic + Advanced)
+- FME Flow (Authoring Concepts + Practices)
+- Data Formats: SHP, KML, GPKG, CSV, Excel & more
+- Key Transformers: `AttributeManager`, `SchemaMapper`, `Logger`, `Tester`, `GeometryFilter`, `StatisticsCalculator`, `Fanout`, `Dynamic Writer` & more.
 - Data transformation and integration using FME Workbench  
 - Automating workflows using FME Flow (Server)  
 - Spatial data processing and format conversions  
 - Schema mapping and data quality control  
-- Transformers used: `Tester`, `AttributeManager`, `FeatureMerger`, `Cloner`, `RasterMosaicker`, `StatisticsCalculator`, and more  
-- Publishing and managing Flow apps with real-time automation triggers  
+- Publishing and managing Flow apps with real-time automation triggers 
+
+---
+
+## 💡 Why This Repo?
+
+After a career break (May 2022 - Jun 2024), I'm transitioning into **ETL/Data Automation roles** where FME is a core tool. This repository reflects my structured effort to:
+- Gain official FME certifications
+- Translate learning into reusable mini-projects
+- Build confidence and credibility for **Spatial Data Engineering Opportunities**
 
 ---
 
 ## 📂 Each folder includes:
 - `.fmw` workspace files  
 - Exercise description  
-- Outputs and screenshots  
+- Data
+- Workspace Screenshot  
 - Lessons learned
-
 ---
 
-## 📬 Contact
+## 📫 Let’s Connect
 
-👤 **Prachi Sarode**  
-📧 prachisarode95@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prachisarode95)  
-📝 [Medium](https://medium.com/@prachisarode)
+I’m actively exploring **entry-level FME Analyst / GIS Data Automation** roles.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prachisarode95/)
 
 ---
 
