@@ -23,10 +23,9 @@ This mini-project explores how to incorporate **advanced user parameter techniqu
 
 | Input Dataset                | Output Format |
 | ---------------------------- | ------------- |
-| `Parks.tab`                  |               |
-| → `ParksMaintenanceData.tab` |               |
-| → `ParkLabels.tab`           |               |
-| → `TranslationLog.tab`       |               |
+| `Parks.tab`                  | → `ParksMaintenanceData.tab` |
+|                              | → `ParkLabels.tab`           |
+|                              | → `TranslationLog.tab`       |
 
 Example:
 
