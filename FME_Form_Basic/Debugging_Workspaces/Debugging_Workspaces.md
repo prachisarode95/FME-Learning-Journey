@@ -1,4 +1,4 @@
-# 🐞 Mini Project: Debugging Workspaces with FME Form
+# Mini Project: Debugging Workspaces with FME Form
 
 [![FME Form](https://img.shields.io/badge/FME-Form%202024-orange?logo=fme)](https://www.safe.com/fme/)
 [![Course Module](https://img.shields.io/badge/Module-Day%205%20Completed-brightgreen)](https://academy.safe.com/path/fme-form-basic/debug-workspaces/163870)
@@ -8,7 +8,7 @@ This mini project highlights my work on **Day 5** of the [FME Form Basic course]
 
 ---
 
-## ✅ What I Did
+## What I Did
 
 I completed a series of exercises that involved:
 
@@ -20,24 +20,24 @@ I completed a series of exercises that involved:
 
 ---
 
-## 🔍 Project Workflow Overview
+## Project Workflow Overview
 
-### 🗂️ Input:
+### Input:
 - Sample datasets with intentional errors and inconsistencies to simulate real-world debugging scenarios.
 
-### 🔧 Process:
+### Process:
 - Inserted breakpoints to halt execution and examine data attributes.
 - Used Inspectors to view intermediate data outputs.
 - Interpreted log files to understand error messages and warnings.
 - Applied TestFilters to segregate data based on validation rules.
 - Modified transformer parameters to correct data processing logic.
 
-### 📤 Output:
+### Output:
 - A fully debugged and functional FME workspace capable of handling the provided datasets without errors.
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 | Concept               | What I Learned                                                |
 |-----------------------|---------------------------------------------------------------|
@@ -49,7 +49,7 @@ I completed a series of exercises that involved:
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
 - Developed proficiency in using FME's debugging tools to identify and fix issues in data workflows.
 - Gained insights into best practices for validating and testing data transformations.
@@ -57,7 +57,7 @@ I completed a series of exercises that involved:
 
 ---
 
-## 📁 Files Structure
+## Files Structure
 ```
 Debugging_Workspaces/
 ├── Addresses.gdb.zip # Zipped Geodatabase containing address layers
@@ -72,4 +72,4 @@ Debugging_Workspaces/
 ```
 ---
 
-> 🧩 This mini-project represents my dedication to mastering FME's debugging capabilities and ensuring robust data transformation processes.
+> This mini-project represents my dedication to mastering FME's debugging capabilities and ensuring robust data transformation processes.
