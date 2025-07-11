@@ -1,4 +1,4 @@
-# 🌍 FME Learning Journey – Spatial ETL Projects with FME Form & Flow
+# FME Learning Journey – Spatial ETL Projects with FME Form & Flow
 
 [![FME](https://img.shields.io/badge/FME-Data_Integration-orange?logo=safe-software&logoColor=white)](https://www.safe.com/fme/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -7,19 +7,19 @@ Welcome to my learning repository showcasing hands-on ETL automation projects bu
 
 ---
 
-## 📘 Training-Based Project Tracks
+## Training-Based Project Tracks
 
 Each folder documents exercises and mini-projects built from real Safe Academy training paths, customized to simulate real-world GIS workflows.
 
 | Folder | Description | Status |
 |--------|-------------|--------|
-| [`FME_Form_Basic`](./FME_Form_Basic/) | Mini-projects from FME Form Basic Course (20 hours) | ✅ Completed |
-| `FME_Form_Advanced` | In-progress workflows using advanced parameterization, schema mapping, dynamic fanouts, and writers (~30 hours) | 🚧 In Progress |
-| `FME_Flow_Authoring` | To-be-added: automation and publishing projects using FME Flow (20 hours) | 📅 Planned (Aug 2025) |
+| [`FME_Form_Basic`](./FME_Form_Basic/) | Mini-projects from FME Form Basic Course (20 hours) | Completed |
+| `FME_Form_Advanced` | In-progress workflows using advanced parameterization, schema mapping, dynamic fanouts, and writers (~30 hours) | In Progress |
+| `FME_Flow_Authoring` | To-be-added: automation and publishing projects using FME Flow (20 hours) | Planned (Aug 2025) |
 
 ---
 
-## ✨ What You'll Find Here
+## What You'll Find Here
 
 - Practical use of **core and advanced transformers**
 - Workflows designed with **parameters, schema mapping**, and **conditional logic**
@@ -28,7 +28,7 @@ Each folder documents exercises and mini-projects built from real Safe Academy t
 
 ---
 
-- ## 🧰 Key Skills & Tools
+- ## Key Skills & Tools
 
 - FME Form (Basic + Advanced)
 - FME Flow (Authoring Concepts + Practices)
@@ -42,7 +42,7 @@ Each folder documents exercises and mini-projects built from real Safe Academy t
 
 ---
 
-## 💡 Why This Repo?
+## Why This Repo?
 
 After a career break (May 2022 - Jun 2024), I'm transitioning into **ETL/Data Automation roles** where FME is a core tool. This repository reflects my structured effort to:
 - Gain official FME certifications
@@ -51,7 +51,7 @@ After a career break (May 2022 - Jun 2024), I'm transitioning into **ETL/Data Au
 
 ---
 
-## 📂 Each folder includes:
+## Each folder includes:
 - `.fmw` workspace files  
 - Exercise description  
 - Data
@@ -59,11 +59,11 @@ After a career break (May 2022 - Jun 2024), I'm transitioning into **ETL/Data Au
 - Lessons learned
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 I’m actively exploring **entry-level FME Analyst / GIS Data Automation** roles.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prachisarode95/)
 
 ---
 
-> 🔄 *This repository is continuously updated as I explore more FME capabilities and real-world use cases.*
+> *This repository is continuously updated as I explore more FME capabilities and real-world use cases.*
