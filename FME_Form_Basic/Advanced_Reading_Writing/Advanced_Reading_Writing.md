@@ -1,4 +1,4 @@
-# 🛠️ Mini Project: Advanced Reading & Writing with FME Form
+# Mini Project: Advanced Reading & Writing with FME Form
 
 [![FME Form](https://img.shields.io/badge/FME-Form%202024-orange?logo=fme)](https://www.safe.com/fme/)
 [![Course Module](https://img.shields.io/badge/Module-Day%204%20Completed-brightgreen)](https://academy.safe.com/path/fme-form-basic/design-workspaces-for-advanced-reading-and-writing/155975)
@@ -8,7 +8,7 @@ This mini project showcases my work on **Day 4** of the [FME Form Basic course](
 
 ---
 
-## ✅ What I Did
+## What I Did
 
 I completed a guided exercise series that involved:
 
@@ -21,24 +21,24 @@ I completed a guided exercise series that involved:
 
 ---
 
-## 🔍 Project Workflow Overview
+## Project Workflow Overview
 
-### 🗂️ Input:
+### Input:
 - A single GML dataset containing several layers (e.g., Parcels, Roads, Zoning)
 
-### 🔧 Process:
+### Process:
 - Fanout by Feature Type to organize outputs
 - Rename feature types and apply writer settings per format
 - Use Excel and GML writers simultaneously
 - Set writer order to ensure dependencies (e.g., Zoning written last)
 
-### 📤 Output:
+### Output:
 - One Excel workbook with multiple sheets (Parcels, Roads, Zoning)
 - Separate GML files split by feature type
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 | Concept | What I Learned |
 |--------|----------------|
@@ -51,7 +51,7 @@ I completed a guided exercise series that involved:
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
 - Gained confidence in handling **multi-format outputs** in FME
 - Understood how to **structure real-world ETL workflows** using multiple writers
@@ -60,7 +60,7 @@ I completed a guided exercise series that involved:
 
 ---
 
-## 📁 Files in This Repo
+## Files in This Repo
 ```
 Advanced_Reading_Writing/
 ├── Advanced_Reading_Writing.md # Notes and instructions for advanced workspace design
@@ -70,4 +70,4 @@ Advanced_Reading_Writing/
 ```
 ---
 
-> 🧩 This mini-project reflects my commitment to learning FME deeply and applying it to real-world GIS data challenges.
+> This mini-project reflects my commitment to learning FME deeply and applying it to real-world GIS data challenges.
