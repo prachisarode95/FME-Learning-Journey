@@ -1,4 +1,4 @@
-# 🎛 Utilize Advanced User Parameter Techniques – FME Form Advanced
+# Utilize Advanced User Parameter Techniques – FME Form Advanced
 
 ## Project Overview
 
@@ -60,4 +60,4 @@ This project highlights how **advanced user parameters and dynamic testing logic
 
 ---
 
-> ✅ This project showcases dynamic data filtering, user-driven parameter logic, and logging—all key for creating intelligent, reusable FME workflows.
+> This project showcases dynamic data filtering, user-driven parameter logic, and logging—all key for creating intelligent, reusable FME workflows.
