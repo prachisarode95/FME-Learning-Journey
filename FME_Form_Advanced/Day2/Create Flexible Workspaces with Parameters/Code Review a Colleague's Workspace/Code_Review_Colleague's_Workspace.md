@@ -50,4 +50,4 @@ This project highlights the importance of **maintainable, readable, and optimize
 
 ---
 
-> ✅ This project showcases your ability to evaluate and enhance existing FME workflows through structured code review.
+> This project showcases your ability to evaluate and enhance existing FME workflows through structured code review.
