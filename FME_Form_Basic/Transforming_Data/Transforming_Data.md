@@ -1,12 +1,12 @@
-# 🌐 FME Form Basic Course - Day 2: Transforming Data Exercise
+# FME Form Basic Course - Day 2: Transforming Data Exercise
 
-## 📘 About the exercise
+## About the exercise
 
 This is a hands-on exercise from the **FME Form Basic course** by Safe Software, under the "Transform Data" path. It demonstrates how to read JSON data from an API, extract and transform spatial and non-spatial data, join it with local datasets, and output a cleaned and sorted result. The entire workflow was built and executed using **FME Workbench 2024.2**, showcasing real-world data integration and transformation techniques.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **FME Workbench**  
   For designing, building, and executing the data transformation workflow.
@@ -16,7 +16,7 @@ This is a hands-on exercise from the **FME Form Basic course** by Safe Software,
 
 ---
 
-## 🔄 Workflow Overview
+## Workflow Overview
 
 ![Image](https://github.com/user-attachments/assets/8ac4e0f0-aa73-45ec-8521-36ab971d9bbc)
 
@@ -34,7 +34,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 🧰 Transformers Applied
+## Transformers Applied
 
 | Transformer            | Purpose                                                                 |
 |------------------------|-------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 🧾 Key Output
+## Key Output
 
 - A cleaned, filtered, and alphabetically sorted dataset of business owners.
 - Only selected attributes (`first_name`, `last_name`, `company`, `license_number`) are included.
@@ -59,7 +59,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 💡 Learnings & Reflection
+## Learnings & Reflection
 
 ✔️ Gained experience working with web APIs inside FME  
 ✔️ Learned how to join external and internal datasets using key fields  
@@ -69,17 +69,17 @@ The data transformation process followed these steps:
 
 ---
 
-## 🔗 Demo
+## Demo
 
-- 🎥 [Watch Workspace Running in FME Workbench](https://github.com/user-attachments/assets/b592e7fd-39fc-4f47-8ee1-c8b9ca6b057d)  
-- 🎥 [Watch Final Output with Sorted Data in FME Data Inspector](https://github.com/user-attachments/assets/19ac9722-8a62-4abd-b245-282a6cb6369b)
+- [Watch Workspace Running in FME Workbench](https://github.com/user-attachments/assets/b592e7fd-39fc-4f47-8ee1-c8b9ca6b057d)  
+- [Watch Final Output with Sorted Data in FME Data Inspector](https://github.com/user-attachments/assets/19ac9722-8a62-4abd-b245-282a6cb6369b)
 
 ---
 
-# 🌐 FME Form Basic Course - Day 2: Join Tables Exercise
+# FME Form Basic Course - Day 2: Join Tables Exercise
 This project is a part of my learning journey through the FME Form Basic Course provided by Safe Software Academy. In this exercise, I explored the Joiner transformer to combine data from two different tables based on a shared key field.
 
-## 🔍 Exercise Overview
+## Exercise Overview
 Exercise Name: Join Tables
 
 Course: FME Form Basic – Day 2 Series
@@ -96,16 +96,16 @@ Objective: To learn how to join data tables using the Joiner transformer in FME 
 
 - Using the FME Data Inspector to verify results
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 FME Workbench 2024.2.1
 
-## 📁 Project Demonstration
-📸 Workspace Screenshot/: 
+## Project Demonstration
+Workspace Screenshot/: 
 ![Image](https://github.com/user-attachments/assets/b4851ec1-aa0e-4d87-af84-ac7a614d1a6c)
 
-🎥 Demo/: https://github.com/user-attachments/assets/5d3e7ac2-c07a-4eae-847f-0b566328d8c5
+Demo/: https://github.com/user-attachments/assets/5d3e7ac2-c07a-4eae-847f-0b566328d8c5
 
-## 🎯 What I Learned
+## What I Learned
 - How to use the Joiner transformer to enrich spatial data with attribute information
 
 - The importance of matching key fields when joining datasets
@@ -113,7 +113,7 @@ FME Workbench 2024.2.1
 - How to visually inspect join results using the Data Inspector
 
 ---
-## 📁 File Structure (includes data for both sections)
+## File Structure (includes data for both sections)
 ```
 Transforming_Data/
 ├── data/ # Contains raw datasets for transformation
