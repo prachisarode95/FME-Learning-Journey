@@ -1,4 +1,4 @@
-# 🚀 FME Form Advanced – End-to-End Project-Based Learning Journey
+# FME Form Advanced – End-to-End Project-Based Learning Journey
 
 Welcome to my hands-on journey through the [FME Form Advanced](https://academy.safe.com/path/fme-form-advanced) training by Safe Software. This course builds on core FME skills and introduces advanced techniques like workspace parameterization, schema evolution, modular design, and dynamic data handling. 
 
@@ -6,7 +6,7 @@ This repository contains structured, real-world-inspired **mini-projects** devel
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Build modular, maintainable FME workspaces
 - Automate workflows using parameters and fanouts
@@ -15,22 +15,22 @@ This repository contains structured, real-world-inspired **mini-projects** devel
 
 ---
 
-## ✅ Course Overview
+## Course Overview
 
 | Course | Level | Modules | Status |
 |--------|--------|---------|--------|
-| [FME Form Advanced](https://academy.safe.com/path/fme-form-advanced) | Intermediate–Advanced | 15 Modules | 🟡 In Progress (July–Aug 2025) |
+| [FME Form Advanced](https://academy.safe.com/path/fme-form-advanced) | Intermediate–Advanced | 15 Modules | In Progress (July–Aug 2025) |
 
 This folder is a live collection of exercise-based mini-projects that demonstrate my ability to apply advanced FME concepts in spatial and non-spatial data automation workflows.
 
 ---
-## 📁 Project Structure
+## Project Structure
 
 The course is divided into two parts. Each day contains focused exercises which I've converted into sub-projects, organized into folders with workflows, explanations, and screenshots.
 
 ---
 
-### 📦 Part 1 – Advanced Design, Performance & Automation
+### Part 1 – Advanced Design, Performance & Automation
 ```
 FME_Form_Advanced/
 └── Part_1/
@@ -57,7 +57,7 @@ FME_Form_Advanced/
 ```
 ---
 
-### 🧠 Topics Covered in Part 1
+### Topics Covered in Part 1
 - Archive & web format processing
 - Ordered data flows and QA
 - Parameterized, multi-location writing
@@ -67,7 +67,7 @@ FME_Form_Advanced/
 
 ---
 
-### 📦 Part 2 – Dynamic Schema Handling with Generic Readers
+### Part 2 – Dynamic Schema Handling with Generic Readers
 ```
 FME_Form_Advanced/
 └── Part_2/
@@ -81,15 +81,15 @@ FME_Form_Advanced/
 ```
 ---
 
-### 🧠 Topics Covered in Part 2
-- Using generic mode for flexible format handling
+### Topics Covered in Part 2
+- Using the generic mode for flexible format handling
 - Schema mapping from incoming or external data
 - Automating schema construction with `SchemaScanner`
 - Designing format-agnostic workspaces
 
 ---
 
-## 🛠️ Tools & Transformers Used
+## Tools & Transformers Used
 
 - FME Form (Advanced Workbench features)
 - Parameters: Published, Private, User Parameters
@@ -98,7 +98,7 @@ FME_Form_Advanced/
 
 ---
 
-## 📂 Repository Navigation
+## Repository Navigation
 
 Each module/project includes:
 - A dedicated folder
@@ -107,14 +107,14 @@ Each module/project includes:
 
 ---
 
-## 🚧 Status
+## Status
 
-🟡 **In Progress** – July & August 2025  
+**In Progress** – July & August 2025  
 I am actively converting each course module into a documented, recruiter-ready project as part of my FME Data Automation portfolio.
 
 ---
 
-## 💼 Career Goal
+## Career Goal
 
 To transition into an entry-level or junior **FME Analyst / Data Automation Engineer** role, where I can apply ETL concepts, spatial processing, and schema management using FME Form & Flow.
 
