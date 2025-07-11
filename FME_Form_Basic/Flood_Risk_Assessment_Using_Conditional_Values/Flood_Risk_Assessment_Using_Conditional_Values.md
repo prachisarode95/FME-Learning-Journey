@@ -1,12 +1,12 @@
-# 🌊 Flood Risk Assessment Using Conditional Values
+# Flood Risk Assessment Using Conditional Values
 
-## 📘 About the exercise
+## About the exercise
 
 This is a hands-on exercise from the **FME Form Basic course** by Safe Software, under the "Use Conditional Values" path. It demonstrates how to assign flood risk scores to address points by using conditional logic based on elevation and proximity to coastal zones. The entire workflow was built and executed using **FME Workbench 2024.2**, showcasing real-world attribute transformation and spatial analysis techniques.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **FME Workbench**  
   For designing, building, and executing the flood risk assessment workflow.
@@ -16,7 +16,7 @@ This is a hands-on exercise from the **FME Form Basic course** by Safe Software,
 
 ---
 
-## 🔄 Workflow Overview
+## Workflow Overview
 
 ![Image](https://github.com/user-attachments/assets/7dd00345-14f4-493f-b854-6adb3ee61576)
 
@@ -46,7 +46,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 🧰 Transformers Applied
+## Transformers Applied
 
 | Transformer                  | Purpose                                                                |
 |-------------------------------|------------------------------------------------------------------------|
@@ -59,7 +59,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 🧾 Key Output
+## Key Output
 
 - A postal address dataset enriched with a new `FloodRiskScore` attribute.
 - Scores are dynamically assigned based on distance to coast and elevation values.
@@ -67,7 +67,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 💡 Learnings & Reflection
+## Learnings & Reflection
 
 ✔️ Gained hands-on experience combining raster and vector data  
 ✔️ Practiced using conditional expressions within `AttributeManager`  
@@ -77,13 +77,13 @@ The data transformation process followed these steps:
 
 ---
 
-## 🔗 Demo
+## Demo
 
-- 🎥 [Watch Workspace Execution](https://github.com/user-attachments/assets/333b38e9-28e4-4648-81e3-a97e9da006b4)
+- [Watch Workspace Execution](https://github.com/user-attachments/assets/333b38e9-28e4-4648-81e3-a97e9da006b4)
   
 ---
 
-## 📁 File Structure
+## File Structure
 ```
 Flood_Risk_Assessment_Using_Conditional_Values/
 ├── exercise-flood-risk-project-complete.fmw # Final FME workspace using conditional logic
