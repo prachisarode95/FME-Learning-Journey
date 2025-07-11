@@ -113,9 +113,3 @@ Each module/project includes:
 I am actively converting each course module into a documented, recruiter-ready project as part of my FME Data Automation portfolio.
 
 ---
-
-## Career Goal
-
-To transition into an entry-level or junior **FME Analyst / Data Automation Engineer** role, where I can apply ETL concepts, spatial processing, and schema management using FME Form & Flow.
-
----
